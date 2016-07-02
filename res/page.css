@@ -10,3 +10,9 @@
 
   display: inline-block;
 }
+
+.thing {
+  font-weight: bold;
+
+  color: #696969;
+}
