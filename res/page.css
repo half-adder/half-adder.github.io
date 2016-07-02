@@ -1,3 +1,12 @@
 #aboutbox {
-  border: 100px solid #333333;
+  float: right;
+
+  border: 2px solid #666;
+  background: #ffffff;
+  padding: 10px;
+
+  max-width:100px;
+  max-height:500px;
+
+  display: inline-block;
 }

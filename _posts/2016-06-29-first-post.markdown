@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "This is my first post!"
-date:   2016-06-29 20:05:21 -0400
+title:  "An Ape Talked To Me Today"
+date:   2016-06-30 20:05:21 -0400
 categories: misc
 ---
-Hi this is my first post.
+Hello and welcome to my weblog. If you are reading this, you are in the future. And *that* is pretty cool. I'm in the past, and it's pretty decent, as far as the past goes.
