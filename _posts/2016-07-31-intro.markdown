@@ -3,3 +3,7 @@ layout: post
 title:  "new ConsciousnessStream()"
 ---
 Hello, and welcome to my weblog! This blog is not dedicated to any subject in particular - just some kid's ramblings. The plan as it stands now is that it will be a place to write coherent essays on topics I care about or am interested in. Maybe I'll throw some projects up here. Who's gonna stop me? This is Sean's Very Own Little Corner of The Internet™!
+
+I do want to become better at writing, though. I think writing well-though-out (and maybe some haphazard) essays will contribute to a real improvement in both my writing skills and my ability to digest information and relate it to others in a meaningful way. For example, my future self will probably understand that that was a horrifically run-on-y sentence (and will probably not use words like run-on-y).
+
+In any case, if you have by some terrible misfortune stumbled upon this weblog, turn around now, there be nothing but disorder ahead.
