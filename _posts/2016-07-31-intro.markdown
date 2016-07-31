@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "new ConsciousnessStream()"
+---
+Hello, and welcome to my weblog! This blog is not dedicated to any subject in particular - just some kid's ramblings. The plan as it stands now is that it will be a place to write coherent essays on topics I care about or am interested in. Maybe I'll throw some projects up here. Who's gonna stop me? This is Sean's Very Own Little Corner of The Internet™!
