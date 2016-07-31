@@ -15,6 +15,9 @@ dl, dd, ol, ul, figure {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    margin: auto;
+    padding: 4em 1em;
+    max-width: 50em;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -82,7 +85,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+    //font-weight: $base-font-weight;
 }
 
 
@@ -95,7 +98,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($brand-color, 12%);
     }
 
     &:hover {
