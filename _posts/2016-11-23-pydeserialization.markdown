@@ -79,7 +79,7 @@ We should also be able to define methods on each of these nested objects. Perhap
 
 Naive Implementation
 --------------------
-We can start with a naive way to just represent the classes we want.
+We can start with a naive way to just represent the classes we want, along with some basic (and quite ugly IMO) type checking. You really have to work in order to get make things type-checked in Python.
 
 {% highlight python %}
 
@@ -175,7 +175,7 @@ This works... But it's pretty ugly, and really verbose! There must be a better w
 
 Awesome Pythonic Implementation of Greatness
 --------------------------------------------
-There is a better way! The scaffolding of this implementation is *heavily* inspired from [The Python Cookbook](www.google.com), a fabulous resource for getting a large variety stuff done in a really nice way.
+There is a better way! The scaffolding of this implementation is *heavily* inspired from [The Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393), a fabulous resource for getting a large variety stuff done in a really nice way.
 
 First, we define a base class.
 
