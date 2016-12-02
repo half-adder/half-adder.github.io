@@ -1,10 +1,31 @@
 ---
 layout: default
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+<style>
+#index-wrapper {
+    display: flex;
+}
+
+#mini-post-list {
+    border: 2px solid black;
+}
+
+
+</style>
+<div id="index-wrapper">
+    <div id="post-list-wrapper">
+        <ul id="full-post-list">
+            {% for post in site.posts %}
+              <li>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                <h2>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                {{ post.excerpt }}
+              </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
