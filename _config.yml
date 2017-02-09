@@ -9,13 +9,19 @@
 title: Sean Johnsen
 email: seanjohnsen96@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello there! My name's Sean. I'm a student at Northeastern University and I study
-  the amazing subject known as Computer Science. I'm currently being an intern at
-  TripAdvisor.
+  Hello there! My name's Sean. I'm a student at Northeastern University, studying
+  Computer Science and Biology.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.seanjohnsen.com" # the base hostname & protocol for your site
-twitter_username: seanjohnsen96
+#twitter_username: seanjohnsen96
 github_username:  half-adder
+
+collections:
+  projects:
+    output: true
 
 # Build settings
 markdown: kramdown
+
+
