@@ -3,13 +3,10 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 //$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 //$base-font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 $base-font-family: "Times New Roman", serif;
-// Found this font stack at http://www.awayback.com/revised-font-stack/
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -19,7 +16,7 @@ $spacing-unit:     30px;
 
 $text-color:       #333555;
 $background-color: #ffffff;
-$brand-color:      #e81c4f;
+$brand-color:      #e74c3c;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
