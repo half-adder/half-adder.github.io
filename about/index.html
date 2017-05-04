@@ -2,6 +2,29 @@
 layout: default
 title: about
 ---
+<style>
 
-<p>Hello, and welcome to my website. My name is Sean Johnsen. I am currently pursuing an undergrad degree in Computer Science as well as in Cellular/Molecular Biology in the beautiful city of Boston.</p>
-<p>When I'm not programming, I enjoy playing and <a href="http://www.last.fm/user/sjohnsen2014" target="_blank">listening to music</a> (I'm slowly but surely learning to play rock guitar). I enjoy playing <a href="https://online-go.com/user/view/321486" target="_blank">Go</a>, but I'm not great.</p>
+#about-container {
+    display: flex;
+}
+
+#selfie {
+    height: 200px;
+    flex-shrink: 0;
+}
+
+#about-text {
+    flex-shrink: 100;
+}
+
+</style>
+
+<div id="about-container">
+    <div id="about-text">
+        <p>Hi there, I'm Sean. I'm studying Computer Science and also Biology at Northeastern University in Boston. On this here website I've got lots of goodies like the art I make, and some incoherent ramblings with regards to things I care about.</p>
+        <p>I enjoy playing and <a href="http://www.last.fm/user/sjohnsen2014" target="_blank">listening to music</a> (I'm slowly but surely learning to play guitar). Play me in a game of <a href="https://online-go.com/user/view/321486" target="_blank">Go</a>!</p>
+    </div>
+    <span id="img-container">
+        <img id="selfie" src="{{ site.url }}/assets/selfie.jpg" alt="">
+    </span>
+</div>

@@ -3,6 +3,12 @@
 ---
 @charset "utf-8";
 
+// My variables
+$color1: rgba(250, 131, 52, 1);
+$color2: rgba(255, 253, 119, 1);
+$color3: rgba(255, 232, 130, 1);
+$color4: rgba(56, 134, 151, 1);
+$color5: rgba(39, 16, 51, 1);
 
 
 // Our variables
@@ -17,9 +23,10 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #333555;
+$text-color:       #1c1d28;
 $background-color: #ffffff;
 $brand-color:      #e81c4f;
+
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -54,3 +61,5 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
