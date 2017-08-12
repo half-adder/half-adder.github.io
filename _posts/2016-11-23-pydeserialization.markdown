@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Deserializing nested dictionaries into complex, typed(!) python objects"
+visible: 1
 ---
 
 Background

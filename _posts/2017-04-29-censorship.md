@@ -2,6 +2,7 @@
 layout: post
 title: Bullets, Feet, and Community-Driven Censorship
 excerpt_separator: ""
+visible: 0
 ---
 
 ## I.
