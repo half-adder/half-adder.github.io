@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Fret - A Fun Tool to Help Learn Notes on the Guitar"
+visible: 1
+---
+
+I've been "learning" guitar for a while now, which up until a few weeks ago has meant futzing around with open chords, playing poppy songs that I like for myself. This is pretty fun to do, and it only takes a few weeks for you to get pretty decent at those simple chords.
+
+Over the past few weeks, though, I've been getting more into music theory, and trying to understand the instrument at a more fundamental level. The first step is to know the names of the notes on the guitar neck. How are you going to understand and be comfortable with your instrument if you don't even know what notes you're playing?? You're not.
+
+SO. I made this little tool to help me along. It's called Fret.
+
+{% include image.html src="/assets/fret_screenshot.png" %}
+
+It's a simple little tool that plays notes in a random order at the specified BPM. All you have to do is follow along. When I first started, it took me a few seconds to work out each note on the lowest string (I basically just counted up from the open E each time). However, after just a half-hour, I could play random notes at about 50BPM. Of course, as you get better, you can just increase the BPM to increase difficulty.
+
+Anyway, I hope this helps anyone that happens to stumble across it! If it does, shoot me an email; I'd love to hear from you!
