@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sean Johnsen"
+theme = "hyde"
+[params]
+    description = "Student of Computer Science and Biology at Northeastern University"
